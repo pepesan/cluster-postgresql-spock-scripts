@@ -26,4 +26,4 @@ sudo chmod +x *.sh
 ./setup_postgres_service.sh
 ```
 ## References
-- [Lenam Blog is the original source for the scripts](https://len4m.github.io/)
+- Login76able is the original author of the scripts used in this guide.
