@@ -26,4 +26,4 @@ sudo chmod +x *.sh
 ./setup_postgres_service.sh
 ```
 ## References
-- Login76able is the original author of the scripts used in this guide.
+- Logan76able is the original author of the scripts used in this guide.
