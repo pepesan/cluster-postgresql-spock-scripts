@@ -10,5 +10,12 @@ with multiple nodes that can handle read and write operations simultaneously.
 ## Installation Steps
 - [One Node](https://blog.cursosdedesarrollo.com/posts/post-014/)
 - [Two Nodes](https://blog.cursosdedesarrollo.com/posts/post-015/)
+# For people in a hurry
+sudo apt install -y git
+git clone https://github.com/pepesan/cluster-postgresql-spock-scripts
+cd cluster-postgresql-spock-scripts
+sudo chmod +x *.sh
+./install-postgresql_spock.sh
+./setup_postgres_service.sh
 ## References
 - [Lenam Blog is the original source for the scripts](https://len4m.github.io/)
