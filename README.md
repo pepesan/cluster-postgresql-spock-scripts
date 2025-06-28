@@ -22,7 +22,7 @@ sudo apt install -y git
 git clone https://github.com/pepesan/cluster-postgresql-spock-scripts
 cd cluster-postgresql-spock-scripts
 sudo chmod +x *.sh
-./install-postgresql_spock.sh
+./install_postgresql_spock.sh
 ./setup_postgres_service.sh
 ```
 ## References
