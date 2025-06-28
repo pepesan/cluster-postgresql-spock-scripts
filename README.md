@@ -3,6 +3,8 @@ In this guide, we will walk through the steps to install and configure PostgreSQ
 ## What is Spock?
 Spock is a PostgreSQL extension that provides support for multi master replication and high availability. It allows for the creation of a highly available PostgreSQL cluster
 with multiple nodes that can handle read and write operations simultaneously.
+- Github Code: [https://github.com/pgEdge/spock](https://github.com/pgEdge/spock)
+- Documentation: [https://docs.pgedge.com/spock_ext](https://docs.pgedge.com/spock_ext)
 ## Objective
 ![architecture.png](imgs/architecture.png)
 ## Prerequisites
